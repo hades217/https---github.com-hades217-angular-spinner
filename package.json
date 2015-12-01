@@ -1,0 +1,14 @@
+{
+  "name": "https---github.com-hades217-angular-spinner.git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lightman",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.4.8"
+  }
+}

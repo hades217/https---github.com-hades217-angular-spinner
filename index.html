@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+  <script src="node_modules/angular/angular.min.js"></script>
+  <script src="spinner.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<div ng-app="myapp">
+ <spinner sp-call ='true' >
+</div>
+
+<script>
+  var myapp = angular.module('myapp',['spinner']);
+
+</script>
+
+</body>
+</html>
